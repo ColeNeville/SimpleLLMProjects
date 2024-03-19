@@ -473,11 +473,12 @@
         },
         "langchain-core": {
             "hashes": [
-                "sha256:04e761a513200b6e5b5818613821945799c07bc5349087d7692e50823107c9d6",
-                "sha256:f40ca31257e003eb404e6275345d13a1b3839df147153684bab56bb8d80162c6"
+                "sha256:c9643505e41d25ba8f20a2e8bf083d0f0d50b9a098d901511fff8df79f831ada",
+                "sha256:e13a016e55e7f082ff3eeeda2d0cb505b89a8830e3a23c1d134d0a89d7871894"
             ],
+            "index": "pypi",
             "markers": "python_version < '4.0' and python_full_version >= '3.8.1'",
-            "version": "==0.1.28"
+            "version": "==0.1.30"
         },
         "langchain-openai": {
             "hashes": [
@@ -498,11 +499,11 @@
         },
         "langsmith": {
             "hashes": [
-                "sha256:6cacc88e272c1233e4038be33e9e219221462887f3681d94f2319916fae31fcc",
-                "sha256:c4b0bf2ed2075f2a23a8a3ac46a804581ed1e85d85c8ad18f7d0fd2a05441c6d"
+                "sha256:5439f5bf25b00a43602aa1ddaba0a31d413ed920e7b20494070328f7e1ecbb86",
+                "sha256:60ba0bd889c6a2683d123f66dc5043368eb2f103c4eb69e382abf7ce69a9f7d6"
             ],
             "markers": "python_version < '4.0' and python_full_version >= '3.8.1'",
-            "version": "==0.1.13"
+            "version": "==0.1.29"
         },
         "marshmallow": {
             "hashes": [
@@ -742,12 +743,12 @@
         },
         "pydantic": {
             "hashes": [
-                "sha256:72c6034df47f46ccdf81869fddb81aade68056003900a8724a4f160700016a2a",
-                "sha256:e07805c4c7f5c6826e33a1d4c9d47950d7eaf34868e2690f8594d2e30241f11f"
+                "sha256:b1704e0847db01817624a6b86766967f552dd9dbf3afba4004409f908dcc84e6",
+                "sha256:cc46fce86607580867bdc3361ad462bab9c222ef042d3da86f2fb333e1d916c5"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==2.6.3"
+            "version": "==2.6.4"
         },
         "pydantic-core": {
             "hashes": [
